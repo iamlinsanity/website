@@ -3,7 +3,9 @@ html, body {
   width: 100%;
   font-family: "Lucida Console", "Courier New", monospace;
   background-image: url('https://cdn.wallpapersafari.com/50/49/jS1YJ4.jpg');
-    color: #FFFFFF; 
+    color: #FFFFFF;
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 /* CSS */
