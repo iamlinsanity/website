@@ -5,6 +5,8 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+
   
 <p>Testing!!</p>
   
@@ -14,14 +16,28 @@
       Click Here
     </button>
 
-            <h2>Contact Us</h2>
-      <form action="mailto:milin@ursinus.edu" method="post" enctype="text/plain">
-        <h4>
-         Email:<br><input type="text" name="useremail"> <br>
-         Message:<br><input type="text" name="message"><br>
-      </h4>
-         <input type="submit" value="Send">
-      </form>
+      <br>
+      <br>
+  <form
+  action="https://formspree.io/f/mdovawvy"
+  method="POST"
+>
+  <label>
+    Email:
+    <br>
+    <input type="email" name="email" style="height:10%; width:50%;">
+  </label>
+    <br>
+  <label>
+    Message:
+    <br>
+    <textarea name="message" style="height:3cm; width:50%;"></textarea >
+  </label>
+  <!-- your other form fields go here -->
+    <br>
+  <button type="submit">Send</button>
+</form>
+          
     
   </div>  
   
