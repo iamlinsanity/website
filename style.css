@@ -104,7 +104,7 @@ a.active, a:hover{
   }
 }
 section{
-  background: url("https://img.freepik.com/free-photo/black-white-layers-paper-top-view_23-2148629481.jpg?w=1060&t=st=1684436619~exp=1684437219~hmac=92a0e1f8261db4cd0a2dc3c34582ca1864056e65ea660523a268368ad64b13dd") no-repeat;
+  background: url("https://img.freepik.com/free-photo/black-white-layers-paper-top-view_23-2148629481.jpg") no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
 }
