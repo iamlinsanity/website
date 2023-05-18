@@ -27,6 +27,7 @@ label.logo{
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
+  font-family: "Lucida Console", "Courier New", monospace;
   
 }
 nav ul{
