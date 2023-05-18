@@ -27,6 +27,7 @@ label.logo{
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
+  radius: 50px;
   
 }
 nav ul{
